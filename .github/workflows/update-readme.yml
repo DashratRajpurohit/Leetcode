@@ -1,21 +1,32 @@
-- name: Checkout repository
-  uses: actions/checkout@v4
-  with:
-    fetch-depth: 0
+name: Update README
 
-- name: Sync with remote
-  run: |
-    git pull origin main --rebase
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
-- name: Update README content
-  run: |
-    DATE=$(date)
-    perl -0777 -i -pe 's/<!-- AUTO-UPDATE-START -->.*?<!-- AUTO-UPDATE-END -->/<!-- AUTO-UPDATE-START -->\nLast updated: '"$DATE"'\nThis update was done using GitHub Actions 🚀\n<!-- AUTO-UPDATE-END -->/s' README.md
+permissions:
+  contents: write
 
-- name: Commit and push changes
-  run: |
-    git config user.name "github-actions"
-    git config user.email "github-actions@github.com"
-    git add README.md
-    git diff --cached --quiet || git commit -m "Automated README update"
-    git push origin main
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update README content
+        run: |
+          DATE=$(date)
+          perl -0777 -i -pe 's/<!-- AUTO-UPDATE-START -->.*?<!-- AUTO-UPDATE-END -->/<!-- AUTO-UPDATE-START -->\nLast updated: '"$DATE"'\nThis update was done using GitHub Actions 🚀\n<!-- AUTO-UPDATE-END -->/s' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Automated README update"
+          git push origin main
