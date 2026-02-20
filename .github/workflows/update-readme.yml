@@ -22,12 +22,14 @@ jobs:
         run: |
           DATE=$(date)
           perl -0777 -i -pe 's/<!-- AUTO-UPDATE-START -->.*?<!-- AUTO-UPDATE-END -->/<!-- AUTO-UPDATE-START -->\nLast updated: '"$DATE"'\nThis update was done using GitHub Actions 🚀\n<!-- AUTO-UPDATE-END -->/s' README.md
+- name: Commit and push changes
+  run: |
+    git config user.name "github-actions"
+    git config user.email "github-actions@github.com"
+ 
+    git pull origin main --rebase
+ 
 
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git pull origin main --rebase
-          git add README.md
-          git diff --cached --quiet || git commit -m "Automated README update"
-          git push origin main
+    git add README.md
+    git diff --cached --quiet || git commit -m "Automated README update"
+    git push origin main
