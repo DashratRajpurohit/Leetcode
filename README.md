@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -16,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 <!---LeetCode Topics End-->
