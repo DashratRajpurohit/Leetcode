@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
+| [3945-digit-frequency-score](https://github.com/DashratRajpurohit/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/DashratRajpurohit/Leetcode/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
