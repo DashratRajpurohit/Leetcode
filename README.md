@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/DashratRajpurohit/Leetcode/tree/master/0342-power-of-four) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DashratRajpurohit/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3945-digit-frequency-score](https://github.com/DashratRajpurohit/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/DashratRajpurohit/Leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/DashratRajpurohit/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
