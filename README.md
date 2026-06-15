@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0434-number-of-segments-in-a-string](https://github.com/DashratRajpurohit/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/2000-reverse-prefix-of-word) |
