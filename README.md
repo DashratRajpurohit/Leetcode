@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3612-process-string-with-special-operations-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/DashratRajpurohit/Leetcode/tree/master/0704-binary-search) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
