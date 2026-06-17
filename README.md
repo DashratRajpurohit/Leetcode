@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/DashratRajpurohit/Leetcode/tree/master/0704-binary-search) |
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DashratRajpurohit/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/DashratRajpurohit/Leetcode/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/DashratRajpurohit/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
