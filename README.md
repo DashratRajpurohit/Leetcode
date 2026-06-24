@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/DashratRajpurohit/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DashratRajpurohit/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DashratRajpurohit/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/DashratRajpurohit/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/DashratRajpurohit/Leetcode/tree/master/0342-power-of-four) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DashratRajpurohit/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DashratRajpurohit/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3945-digit-frequency-score](https://github.com/DashratRajpurohit/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
