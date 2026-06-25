@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [1732-find-the-highest-altitude](https://github.com/DashratRajpurohit/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/DashratRajpurohit/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DashratRajpurohit/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DashratRajpurohit/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/DashratRajpurohit/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
