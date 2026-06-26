@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/DashratRajpurohit/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [2540-minimum-common-value](https://github.com/DashratRajpurohit/Leetcode/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DashratRajpurohit/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3945-digit-frequency-score](https://github.com/DashratRajpurohit/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [1732-find-the-highest-altitude](https://github.com/DashratRajpurohit/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/DashratRajpurohit/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2540-minimum-common-value](https://github.com/DashratRajpurohit/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DashratRajpurohit/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DashratRajpurohit/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2540-minimum-common-value](https://github.com/DashratRajpurohit/Leetcode/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/DashratRajpurohit/Leetcode/tree/master/0704-binary-search) |
+| [2540-minimum-common-value](https://github.com/DashratRajpurohit/Leetcode/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
