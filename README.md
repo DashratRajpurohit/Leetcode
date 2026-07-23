@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/DashratRajpurohit/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/DashratRajpurohit/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2540-minimum-common-value](https://github.com/DashratRajpurohit/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DashratRajpurohit/Leetcode/tree/master/2574-left-and-right-sum-differences) |
