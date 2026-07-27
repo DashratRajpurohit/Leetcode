@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DashratRajpurohit/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/3379-transformed-array) |
+| [3828-final-element-after-subarray-deletions](https://github.com/DashratRajpurohit/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3838-weighted-word-mapping](https://github.com/DashratRajpurohit/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DashratRajpurohit/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DashratRajpurohit/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DashratRajpurohit/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/DashratRajpurohit/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3945-digit-frequency-score](https://github.com/DashratRajpurohit/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -140,9 +142,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/DashratRajpurohit/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/DashratRajpurohit/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
