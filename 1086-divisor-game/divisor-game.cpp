@@ -1,0 +1,7 @@
+class Solution {
+public:
+    bool divisorGame(int n) {
+        if ((n-1)%2==0)return false;
+        else return true;
+    }
+};
