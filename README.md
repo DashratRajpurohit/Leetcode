@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DashratRajpurohit/Leetcode/tree/master/0067-add-binary) |
+| [0292-nim-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/DashratRajpurohit/Leetcode/tree/master/0342-power-of-four) |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DashratRajpurohit/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -137,9 +138,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
