@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/DashratRajpurohit/Leetcode/tree/master/0342-power-of-four) |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/DashratRajpurohit/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DashratRajpurohit/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DashratRajpurohit/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DashratRajpurohit/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -137,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/DashratRajpurohit/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/DashratRajpurohit/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3828-final-element-after-subarray-deletions](https://github.com/DashratRajpurohit/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/DashratRajpurohit/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/DashratRajpurohit/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
