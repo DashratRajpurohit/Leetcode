@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3163-string-compression-iii](https://github.com/DashratRajpurohit/Leetcode/tree/master/3163-string-compression-iii) |
 | [3612-process-string-with-special-operations-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/DashratRajpurohit/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
