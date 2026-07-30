@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/DashratRajpurohit/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DashratRajpurohit/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DashratRajpurohit/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DashratRajpurohit/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DashratRajpurohit/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DashratRajpurohit/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/DashratRajpurohit/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/DashratRajpurohit/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
