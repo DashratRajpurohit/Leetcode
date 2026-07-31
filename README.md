@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DashratRajpurohit/Leetcode/tree/master/0242-valid-anagram) |
 | [0434-number-of-segments-in-a-string](https://github.com/DashratRajpurohit/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DashratRajpurohit/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/DashratRajpurohit/Leetcode/tree/master/0443-string-compression) |
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/DashratRajpurohit/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DashratRajpurohit/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DashratRajpurohit/Leetcode/tree/master/0075-sort-colors) |
+| [0443-string-compression](https://github.com/DashratRajpurohit/Leetcode/tree/master/0443-string-compression) |
 | [2000-reverse-prefix-of-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/DashratRajpurohit/Leetcode/tree/master/2540-minimum-common-value) |
 ## Stack
