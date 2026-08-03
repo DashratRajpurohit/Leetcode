@@ -183,5 +183,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/DashratRajpurohit/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/DashratRajpurohit/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/DashratRajpurohit/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0610-triangle-judgement](https://github.com/DashratRajpurohit/Leetcode/tree/master/0610-triangle-judgement) |
 | [1965-employees-with-missing-information](https://github.com/DashratRajpurohit/Leetcode/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
