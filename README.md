@@ -185,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/DashratRajpurohit/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/DashratRajpurohit/Leetcode/tree/master/0610-triangle-judgement) |
 | [1965-employees-with-missing-information](https://github.com/DashratRajpurohit/Leetcode/tree/master/1965-employees-with-missing-information) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
