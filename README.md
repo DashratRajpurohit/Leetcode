@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/DashratRajpurohit/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/DashratRajpurohit/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/DashratRajpurohit/Leetcode/tree/master/0610-triangle-judgement) |
+| [1757-recyclable-and-low-fat-products](https://github.com/DashratRajpurohit/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/DashratRajpurohit/Leetcode/tree/master/1965-employees-with-missing-information) |
 ## Linked List
 |  |
