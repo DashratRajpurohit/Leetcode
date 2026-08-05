@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/DashratRajpurohit/Leetcode/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DashratRajpurohit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/DashratRajpurohit/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DashratRajpurohit/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DashratRajpurohit/Leetcode/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DashratRajpurohit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/DashratRajpurohit/Leetcode/tree/master/0443-string-compression) |
 | [2000-reverse-prefix-of-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/DashratRajpurohit/Leetcode/tree/master/2540-minimum-common-value) |
@@ -195,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DashratRajpurohit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
