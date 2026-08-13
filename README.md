@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DashratRajpurohit/Leetcode/tree/master/0704-binary-search) |
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/DashratRajpurohit/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1288-remove-covered-intervals](https://github.com/DashratRajpurohit/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1313-decompress-run-length-encoded-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
@@ -222,11 +224,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/DashratRajpurohit/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DashratRajpurohit/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
