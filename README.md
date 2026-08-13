@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DashratRajpurohit/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/DashratRajpurohit/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/DashratRajpurohit/Leetcode/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/DashratRajpurohit/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0434-number-of-segments-in-a-string](https://github.com/DashratRajpurohit/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DashratRajpurohit/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/DashratRajpurohit/Leetcode/tree/master/0443-string-compression) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/DashratRajpurohit/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DashratRajpurohit/Leetcode/tree/master/0075-sort-colors) |
+| [0318-maximum-product-of-word-lengths](https://github.com/DashratRajpurohit/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0643-maximum-average-subarray-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DashratRajpurohit/Leetcode/tree/master/0704-binary-search) |
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DashratRajpurohit/Leetcode/tree/master/0067-add-binary) |
+| [0318-maximum-product-of-word-lengths](https://github.com/DashratRajpurohit/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/DashratRajpurohit/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
