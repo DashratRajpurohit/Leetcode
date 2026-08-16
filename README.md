@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/DashratRajpurohit/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3838-weighted-word-mapping](https://github.com/DashratRajpurohit/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/DashratRajpurohit/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/DashratRajpurohit/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/DashratRajpurohit/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
