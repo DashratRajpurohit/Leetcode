@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/DashratRajpurohit/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DashratRajpurohit/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -246,9 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
