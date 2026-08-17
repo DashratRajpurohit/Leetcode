@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/DashratRajpurohit/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0643-maximum-average-subarray-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DashratRajpurohit/Leetcode/tree/master/0704-binary-search) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DashratRajpurohit/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1002-find-common-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/DashratRajpurohit/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DashratRajpurohit/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/DashratRajpurohit/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DashratRajpurohit/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DashratRajpurohit/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/DashratRajpurohit/Leetcode/tree/master/0242-valid-anagram) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DashratRajpurohit/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1288-remove-covered-intervals](https://github.com/DashratRajpurohit/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DashratRajpurohit/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/DashratRajpurohit/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/DashratRajpurohit/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Dynamic Programming
