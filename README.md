@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DashratRajpurohit/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DashratRajpurohit/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2540-minimum-common-value](https://github.com/DashratRajpurohit/Leetcode/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DashratRajpurohit/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/DashratRajpurohit/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/DashratRajpurohit/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DashratRajpurohit/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DashratRajpurohit/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/DashratRajpurohit/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2540-minimum-common-value](https://github.com/DashratRajpurohit/Leetcode/tree/master/2540-minimum-common-value) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DashratRajpurohit/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
