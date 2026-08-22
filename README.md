@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DashratRajpurohit/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DashratRajpurohit/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DashratRajpurohit/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DashratRajpurohit/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/DashratRajpurohit/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3945-digit-frequency-score](https://github.com/DashratRajpurohit/Leetcode/tree/master/3945-digit-frequency-score) |
