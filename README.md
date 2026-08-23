@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DashratRajpurohit/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/DashratRajpurohit/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3828-final-element-after-subarray-deletions](https://github.com/DashratRajpurohit/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3838-weighted-word-mapping](https://github.com/DashratRajpurohit/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/DashratRajpurohit/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
