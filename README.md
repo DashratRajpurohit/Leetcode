@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DashratRajpurohit/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/DashratRajpurohit/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0044-wildcard-matching](https://github.com/DashratRajpurohit/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/DashratRajpurohit/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/DashratRajpurohit/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/DashratRajpurohit/Leetcode/tree/master/0242-valid-anagram) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/DashratRajpurohit/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/DashratRajpurohit/Leetcode/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/DashratRajpurohit/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DashratRajpurohit/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/DashratRajpurohit/Leetcode/tree/master/0342-power-of-four) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/DashratRajpurohit/Leetcode/tree/master/0044-wildcard-matching) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DashratRajpurohit/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/DashratRajpurohit/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/DashratRajpurohit/Leetcode/tree/master/0044-wildcard-matching) |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/DashratRajpurohit/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
