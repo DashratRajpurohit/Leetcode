@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DashratRajpurohit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/DashratRajpurohit/Leetcode/tree/master/0075-sort-colors) |
 | [0318-maximum-product-of-word-lengths](https://github.com/DashratRajpurohit/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0498-diagonal-traverse](https://github.com/DashratRajpurohit/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DashratRajpurohit/Leetcode/tree/master/0704-binary-search) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DashratRajpurohit/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DashratRajpurohit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DashratRajpurohit/Leetcode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/DashratRajpurohit/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DashratRajpurohit/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/DashratRajpurohit/Leetcode/tree/master/3379-transformed-array) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/DashratRajpurohit/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/DashratRajpurohit/Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/DashratRajpurohit/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DashratRajpurohit/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
