@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DashratRajpurohit/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/DashratRajpurohit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/DashratRajpurohit/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/DashratRajpurohit/Leetcode/tree/master/0118-pascals-triangle) |
 | [0318-maximum-product-of-word-lengths](https://github.com/DashratRajpurohit/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0498-diagonal-traverse](https://github.com/DashratRajpurohit/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/DashratRajpurohit/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/DashratRajpurohit/Leetcode/tree/master/0044-wildcard-matching) |
+| [0118-pascals-triangle](https://github.com/DashratRajpurohit/Leetcode/tree/master/0118-pascals-triangle) |
 | [1025-divisor-game](https://github.com/DashratRajpurohit/Leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/DashratRajpurohit/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
